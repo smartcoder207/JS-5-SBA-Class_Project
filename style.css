@@ -1,0 +1,74 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+header{
+  font-size: 5pts;
+  font-display: center;
+}
+
+body{
+  background-color: #FED8B1; 
+  font-stretch: 25px;
+  font-display: blue;  
+}
+#all-input{
+  padding-left: 50px;
+}
+h1{
+  font-size: 5pts;
+  font-style: center;
+  color: #1E66EE;
+}
+h3{
+  color: #1E66EE;
+}
+section {  
+  padding: 1em;
+  position: absolute;
+  top: 50%;
+  left: 50%;  
+  margin-right: -50%;
+  transform: translate(-50%, -50%);    
+}
+
+input.placeholder{
+  font-size: 10px;
+  margin-trim: center;  
+}
+#submit-div{
+  padding-left: 150px;
+}
+#submit-button{
+  padding-left: "50px";
+}
+
+.class="container" {    
+    font-margin:center;
+  font-size: 10px;
+  }
+
+}
+
+.wrapper{
+  width: 400px;
+  max-width: 90%;
+  margin:0.5em 0;
+}
+  
+
+.wrapper label{
+  color: #1E66EE;
+  margin:0.5em 0;
+}
+.wrapper label input{
+  font-size: 18px;
+  padding: 0.5em;
+}
+
+/*
+.wrapper input[type="submit"]{
+  font-size: 25px;  
+  padding: center;
+}
+*/
